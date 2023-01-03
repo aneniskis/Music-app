@@ -2,7 +2,7 @@
 
 _Let's listen some music_
 
-Music app page made with "ReactJs". Can be visited at [Netlify](https://voluble-piroshki-518e4b.netlify.app)
+Music app page made with "ReactJs". Can be visited at [Netlify](https://poetic-scone-b757bc.netlify.app)
 
 ## Project features
 
